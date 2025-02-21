@@ -70,8 +70,8 @@ This notebook applies the Apriori algorithm to identify association rules in pur
 - Extraction of frequent itemsets and association rules.
 - Visualization of category associations using network graphs.
 
-## Project Presentation 🎥
-[![Watch the video](https://www.loom.com/share/cfacb642d62d47a9a35ffa0ec2d0cae4?sid=3e9c63ea-1853-4806-96c0-ab6a688518ff)]
+## Project Presentation 🎥  
+[🎥 Watch the Video on Loom](https://www.loom.com/share/cfacb642d62d47a9a35ffa0ec2d0cae4?sid=3e9c63ea-1853-4806-96c0-ab6a688518ff)
 
 ## Installation and Setup
 
