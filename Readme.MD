@@ -11,8 +11,9 @@ This repository contains Python notebooks for analyzing customer purchase data a
    - [Classification.ipynb](#3-classificationipynb)
    - [Recommendation.ipynb](#4-recommendationipynb)
    - [Apriori.ipynb](#5-aprioripy)
-5. [Installation and Setup](#installation-and-setup)
-6. [Usage](#usage)
+3. [Project Presentation](#video)
+4. [Installation and Setup](#installation-and-setup)
+5. [Usage](#usage)
 
 ## Introduction
 This project focuses on:
@@ -68,6 +69,9 @@ This notebook applies the Apriori algorithm to identify association rules in pur
 - Transformation of purchase data into transaction format.
 - Extraction of frequent itemsets and association rules.
 - Visualization of category associations using network graphs.
+
+## Project Presentation 🎥
+[![Watch the video](https://www.loom.com/share/cfacb642d62d47a9a35ffa0ec2d0cae4?sid=3e9c63ea-1853-4806-96c0-ab6a688518ff]
 
 ## Installation and Setup
 
