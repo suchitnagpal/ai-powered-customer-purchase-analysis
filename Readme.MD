@@ -11,7 +11,7 @@ This repository contains Python notebooks for analyzing customer purchase data a
    - [Classification.ipynb](#3-classificationipynb)
    - [Recommendation.ipynb](#4-recommendationipynb)
    - [Apriori.ipynb](#5-aprioripy)
-3. [Project Presentation](#video)
+3. [Project Presentation](#project-presentation-🎥)
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
 
